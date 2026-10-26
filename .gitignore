@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+Host Events/
+Network Traffic/
+Power Consumption/*.csv
+clean_rerun_results/
+preliminary_results/
+
+.env
